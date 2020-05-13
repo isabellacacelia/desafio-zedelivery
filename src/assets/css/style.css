@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+.container {
+  width: 800px;
+  margin: auto; }
+
+header {
+  background-color: #333;
+  padding: 1.2em; }
+  header img {
+    width: 121px;
+    height: 40px;
+    margin-left: 3em; }
+
+/*# sourceMappingURL=style.css.map */
