@@ -1,6 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-$cinza: #333;
-
 body {
   margin: 0;
   padding: 0;
@@ -48,24 +45,5 @@ main {
       margin: auto;
       text-align: center;
     }
-  }
-}
-header {
-  background-color: $cinza;
-  padding: 1.2em;
-  img {
-    width: 121px;
-    height: 40px;
-    margin-left: 3em;
-  }
-}
-footer {
-  background-color: $cinza;
-  padding: 1.2em;
-  text-align: center;
-  font-size: 0.8em;
-  color: #ccc;
-  a {
-    color: #ddd;
   }
 }
